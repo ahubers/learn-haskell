@@ -9,14 +9,11 @@ This Readme will serve the purpose of a course syllabus as Tanner and Alex learn
 
 ## Structure
 
-Submit your solutions to your own folder in ./exercises/name/week_x for week x. 
+Submit your solutions to your own folder in `./exercises/name/week_x` for week x. 
 Feel free to put any notes concerning that week's chapter in that folder's README.md. 
 
 The class (Alex and Tanner) will have a call on Thusday each week
 to discuss the chapter and compare solutions to exercises.
-
-
-## Schedule
 
 ## Week 1 : week of Jan 25, 2016
 
@@ -34,7 +31,7 @@ We will use this week to become comfortable with writing in Haskell -- building 
 to presume some knowledge of the language. This is nice in that we'll avoid any "CodeAcademy" situations (here is an int, here is an array),
 but it means we will need to spend some time with the basics first.
 
-## Week 2 : Week of February 1st, 2016
+## Week 2 : week of February 1st, 2016
 
 ### Book chapters
 
