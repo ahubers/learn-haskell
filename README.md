@@ -8,8 +8,9 @@ This Readme will serve the purpose of a course syllabus as Tanner and Alex learn
 
 # Syllabus
 
-I googled "course syllabus in markdown" and found this table:
+## Schedule
 
+I googled "course syllabus in markdown" and found this table:
 
 
 | Week | Class | Lecture Topic               | Book Sections        |
@@ -23,4 +24,11 @@ I googled "course syllabus in markdown" and found this table:
 | 4    | 1     | Average Value of a Function | 6.5, Page 429-430    |
 | -    | 2     | **Test 1**                  | 6.6                  |
 
-Soon I will populate it. and remove this week 1 / class (1,2) stuff (not relevant).
+
+I have repopulated it with relevant information. Alex and Tanner will have a call
+on each (insert day here) to discuss the chapter and compare solutions to exercises.
+
+## Structure
+
+Submit your solutions to your own folder in ./exercises/name/week_x for week x. 
+Feel free to put any notes concerning that week's chapter in that folder's README.md. 

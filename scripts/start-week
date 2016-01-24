@@ -1,0 +1,15 @@
+# start a week's exercises (populate the folders)
+
+# Specify exercises folders
+alexDirectory=../exercises/alex/week$1
+tannerDirectory=../exercises/tanner/week$1
+
+# make a new folder for this week
+mkdir $alexDirectory
+mkdir $tannerDirectory
+
+# copy a Readme to there
+echo "# Week $1 chapter notes" > $alexDirectory/README.md
+echo "# Week $1 chapter notes" > $tannerDirectory/README.md
+
+
