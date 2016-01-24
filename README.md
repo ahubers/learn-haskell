@@ -11,8 +11,9 @@ This Readme will serve the purpose of a course syllabus as Tanner and Alex learn
 I googled "course syllabus in markdown" and found this table:
 
 
-|:-----|:------|:----------------------------|:---------------------|
+
 | Week | Class | Lecture Topic               | Book Sections        |
+|:-----|:------|:----------------------------|:---------------------|
 | 1    | 1     | Substitution Rule           | 5.5, 5.6             |
 | -    | 2     | Partial Fractions           | 5.7, 5.8, Appendix G |
 | 2    | 1     | Approximate Integration     | 5.9                  |
