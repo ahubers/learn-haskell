@@ -35,7 +35,7 @@ but it means we will need to spend some time with the basics first.
 
 ### Book chapters
 
-Read chapters [four](http://learnyouahaskell.com/syntax-in-functions) and [five](http://learnyouahaskell.com/recursion);
+Read chapters [four](http://learnyouahaskell.com/syntax-in-functions) and [five](http://learnyouahaskell.com/recursion).
 
 ### Exercises
 
