@@ -12,14 +12,14 @@ This Readme will serve the purpose of a course syllabus as Tanner and Alex learn
 Submit your solutions to your own folder in `./exercises/name/week_x` for week x. 
 Feel free to put any notes concerning that week's chapter in that folder's README.md. 
 
-The class (Alex and Tanner) will have a call on Thusday each week
+The class (Alex and Tanner) will have a call at 1800 on Wednesday each week
 to discuss the chapter and compare solutions to exercises.
 
 ## Week 1 : week of Jan 25, 2016
 
 ### Book chapters
 
-We will be reading chapters [One](http://learnyouahaskell.com/introduction#about-this-tutorial), [Two] (http://learnyouahaskell.com/starting-out#ready-set-go) and [three] (http://learnyouahaskell.com/types-and-typeclasses#believe-the-type) of Learn you a Haskell.
+We will be reading chapters [One](http://learnyouahaskell.com/introduction#about-this-tutorial), [Two](http://learnyouahaskell.com/starting-out#ready-set-go) and [three](http://learnyouahaskell.com/types-and-typeclasses#believe-the-type) of Learn you a Haskell.
 
 ### Exercises
 

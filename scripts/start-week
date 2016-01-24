@@ -1,4 +1,5 @@
 # start a week's exercises (populate the folders)
+# pass the week number as an argument to the script
 
 # Specify exercises folders
 alexDirectory=../exercises/alex/week$1
