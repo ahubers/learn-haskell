@@ -15,7 +15,7 @@ Feel free to put any notes concerning that week's chapter in that folder's READM
 The class (Alex and Tanner) will have a call at 1100CST on Sunday each week
 to discuss the chapter and compare solutions to exercises.
 
-## Week 1 : week of Jan 31
+## Week 1 : week of Feb 1st, 2016
 ### Book chapters
 
 We will be reading chapters [One](http://learnyouahaskell.com/introduction#about-this-tutorial), [Two](http://learnyouahaskell.com/starting-out#ready-set-go) and [three](http://learnyouahaskell.com/types-and-typeclasses#believe-the-type) of Learn you a Haskell.
@@ -30,7 +30,7 @@ We will use this week to become comfortable with writing in Haskell -- building 
 to presume some knowledge of the language. This is nice in that we'll avoid any "CodeAcademy" situations (here is an int, here is an array),
 but it means we will need to spend some time with the basics first.
 
-## Week 2 : week of January 7th, 2016
+## Week 2 : week of February 8th, 2016
 
 ### Book chapters
 
