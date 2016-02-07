@@ -21,3 +21,12 @@ fib x = fib (x - 1) + fib (x - 2)
 
 triangles = [(x, y, z) | x <- [1..10], y <- [1..10], z <- [1..10]]
 rightTriangles = [(x, y, z) | (x, y, z) <- triangles, x^2 + y^2 == z^2]
+
+-- CHAPTER 3
+
+fact :: Integer -> Integer
+fact 0 = 1
+fact n = n * fact (n - 1)
+
+otherFact :: Int -> Int
+otherFact n = product [1..n]
